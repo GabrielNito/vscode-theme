@@ -1,0 +1,21 @@
+{
+  "name": "nito-s-theme",
+  "displayName": "Nito's Theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nito's theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Nito's theme-color-theme.json"
+      }
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+node_modules
+*.vsix
+.vscode
+.vscodeignore
+package.json
+README.md
+CHANGELOG.md
+vsc-extension.quickstart.md
